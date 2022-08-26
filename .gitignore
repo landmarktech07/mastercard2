@@ -1,0 +1,5 @@
+.igitignore
+.project
+classpath
+*.log
+node_modules/
