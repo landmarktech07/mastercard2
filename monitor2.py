@@ -1,3 +1,4 @@
-Grafana
+Grafania
 promethus
 newrelic
+bug fixed
